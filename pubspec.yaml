@@ -22,7 +22,6 @@ flutter:
   uses-material-design: true
 
 topics:
-  - flutter
   - scroll
   - animator
   - fab
